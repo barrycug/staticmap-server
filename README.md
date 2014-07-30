@@ -1,0 +1,4 @@
+staticmap-server
+================
+
+StaticMap Service
