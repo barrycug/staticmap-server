@@ -4,7 +4,7 @@
 
 Clone the repository
 
-git clone https://bitbucket.org/germanosin/staticmap.git
+git clone https://github.com/germanosin/staticmap-server.git
 
 Create dist archive
 
