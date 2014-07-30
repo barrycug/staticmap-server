@@ -20,8 +20,8 @@ bin/staticmap
 
 http://localhost:9000/image?baseMap=osm&size=1024x1024&center=55,49&zoom=6
 
-baseMap - name of Base Map Layer. You can create ownself. Example is https://bitbucket.org/germanosin/staticmap/src/a9da375f7e6a4ac87813a257fc95aeec6c97899e/app/org/gradoservice/mapRender/layers/OSM.java?at=master
-And then register it in factory https://bitbucket.org/germanosin/staticmap/src/a9da375f7e6a4ac87813a257fc95aeec6c97899e/app/Global.java?at=master
+baseMap - name of Base Map Layer. You can create ownself. Example is https://github.com/germanosin/staticmap-server/blob/master/app/org/gradoservice/mapRender/layers/OSM.java
+And then register it in factory https://github.com/germanosin/staticmap-server/blob/master/app/Global.java
 
 size - width+'x'+height in pixels
 
